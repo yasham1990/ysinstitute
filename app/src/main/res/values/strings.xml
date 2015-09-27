@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Slider Menu</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_help">Help</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="drawer_open">Slider Menu Opened</string>
+    <string name="drawer_close">Slider Menu Closed</string>
+
+
+    <string name="university_text">Y S Institute of Engineering and Technology is one of the oldest
+        college affiliated to Dream Technical University, India and is approved by AICTE.
+        Since then it has been marching on with focus on exploring and creating new avenues for young
+        aspirants through collaborations with Institutions and Industries of National and International repute.</string>
+
+    <string name="admission_text">One can directly apply for Management Seats by filling up the forms available at Admission Offices.
+        The selection would be thoroughly based on merit basis. The applicants would have to go through an interview conducted by Admission Board.
+        The members of this Admission Board are higher dignitaries from various Departments of the group.
+        For applying for Counselling Seats one needs to appear in the Appropriate Entrance Exam for the Specific Course.
+        The counselling Seat would be allotted as per the University Norms.</string>
+
+    <string name="placements_text">Y S institute is having highly dedicated and fully independent career development and placement facilitation services
+        cell operating under the direct control of management of the Group.
+        The cell is headed by Director - CRC and PFC and has independent staff consisting of TPOs faculty and students placement coordinators drawn from various departments of YS.
+        For placement a large number of prospective employers are contacted during the year and efforts are made to invite these companies to visit college and to conduct campus recruitments.</string>
+
+    <string name="faculties_text">YS Institute has ones of the best state of art laboratories which are self contained and matching with the Industry Standards.
+        Mechanical Labs are equipped with the - Engg. Workshop Practice Lab, Mechanics of Solids Lab Thermal Engg. Lab, Metrology Lab,
+        FM  HMS Lab, Production Technology Lab, Metrology  M/C Tools Lab, Heat Transfer Lab, CAD/CAM Lab and Fuel  Lubricant Lab etc.</string>
+
+    <string name="support_text">Slider Menu Closed</string>
+
+    <string name="help_text">Made By Yasham Singhal
+                                Version 1.0
+                            Stay Tuned for more exciting stuff.
+    </string>
+
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item >Home</item>
+        <item >Admissions</item>
+        <item >Faculties</item>
+        <item >Placements</item>
+        <item >Contact Us</item>
+     </string-array>
+    
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+    <array name="nav_drawer_icons">
+        <item>@mipmap/ic_universityhome</item>
+        <item>@mipmap/ic_admission</item>
+        <item>@mipmap/ic_faculties</item>
+        <item>@mipmap/ic_placements</item>
+        <item>@mipmap/ic_support</item>
+    </array>
+    
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">Item Icon</string>
+
+</resources>
